@@ -1,0 +1,15 @@
+C:\Repositories\MTGOPrices\MTGOPrices\bin\Debug\MTGOPrices.exe.config
+C:\Repositories\MTGOPrices\MTGOPrices\bin\Debug\MTGOPrices.exe
+C:\Repositories\MTGOPrices\MTGOPrices\bin\Debug\MTGOPrices.pdb
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.csprojAssemblyReference.cache
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MainWindow.g.cs
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\App.g.cs
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices_MarkupCompile.cache
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices_MarkupCompile.lref
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MainWindow.baml
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.g.resources
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.Properties.Resources.resources
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.csproj.GenerateResource.cache
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.csproj.CoreCompileInputs.cache
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.exe
+C:\Repositories\MTGOPrices\MTGOPrices\obj\Debug\MTGOPrices.pdb
